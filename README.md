@@ -1,4 +1,4 @@
-![screenshot](./Img/game_screen_1.png)
+![screenshot](./Img/game_screen_1.jpg)
 # Game of Life
 О чём: Game of Life с двумя режимами: 
  * **Casual**: есть возможность попробовать разный neighborhood для клеток и всемозможно поиграться с правилами. Есть множество функций (обозначено в управлении ниже)
